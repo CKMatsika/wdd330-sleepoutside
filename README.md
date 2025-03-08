@@ -26,4 +26,7 @@ _BYU-Pathway Worldwide improves lives through access to spiritually based, onlin
 netlify url =https://majestic-kheer-6fa89f.netlify.app/
 
 
+netlify url =https://majestic-kheer-6fa89f.netlify.app/
+
+
 
